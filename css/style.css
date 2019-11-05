@@ -39,14 +39,9 @@ body {
   height: 100%;
   text-align: center;
   font-size: 1.25em;
-  color: white;
-  opacity: 0.6;
   cursor: pointer;
 }
 
-.navbox:hover {
-  opacity: 1;
-}
 
 .navtext {
   position: absolute;
@@ -80,16 +75,4 @@ body {
 
 #hline3 {
   top: 55%;
-}
-
-#ntxt1:hover {
-  color: #8162F4;
-}
-
-#ntxt2:hover {
-  color: #FF5AFE;
-}
-
-#ntxt3:hover {
-  color: #5EFC8D;
 }
